@@ -85,3 +85,18 @@ body {
 .shop-button:hover {
     background-color: #8b6f5a;
 }
+
+.Vitug  {
+    margin-top: 35px;
+    font-size: 14px;
+}
+
+.Vitug p {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.Vitug span {
+    margin-right: 15px;
+    color: #8b6f5a;
+}
